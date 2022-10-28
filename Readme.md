@@ -1,0 +1,4 @@
+```
+yarn add aws-sdk
+```
+
